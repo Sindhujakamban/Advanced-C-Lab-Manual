@@ -141,6 +141,8 @@ int main()
 ```
 
 Output:
+
+
 <img width="772" height="299" alt="image" src="https://github.com/user-attachments/assets/09339996-8b7f-4e97-b288-ef229a7920ee" />
 
 
