@@ -268,6 +268,8 @@ int main()
 ```
 
 Output:
+
+
 <img width="712" height="508" alt="image" src="https://github.com/user-attachments/assets/6619ed56-9267-4756-88ce-039a0f490e6b" />
 
 
